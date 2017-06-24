@@ -30,7 +30,7 @@ Dependencies:
 
 	# apt install make g++ liballegro4-dev libpng-dev
 
-Next you need to compile the dependencies alfont and alogg whose sourcecode
+Next you need to compile the dependencies **alfont** and **alogg** whose sourcecode
 is provided in this release.
 
 	$ make depsclean && make deps
