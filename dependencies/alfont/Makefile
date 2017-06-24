@@ -2,7 +2,7 @@
 
 CC=gcc
 
-TARGETFLAGS=-Wall -O2 -fomit-frame-pointer -finline-functions -ffast-math
+TARGETFLAGS=-Wall -O2 -fomit-frame-pointer -finline-functions -ffast-math -Wno-pointer-sign -Wno-unused-variable -Wno-unused-but-set-variable -Wno-maybe-uninitialized -Wno-unused-function
 OBJDIR=obj/linux/static
 LIBDEST=lib/linux/libalfont.a
 
