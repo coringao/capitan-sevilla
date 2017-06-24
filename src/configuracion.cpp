@@ -5,7 +5,7 @@ Configuracion::Configuracion() {
  LogWrite ("Iniciando gestor de configuración...");
  Idioma = 127;
  Sound = true;
- Windowed = false;
+ Windowed = true;
  ScanL = true;
  Resol = 1;
  GraphDet = 3;
