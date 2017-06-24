@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Captain 'S' The Remake
+Comment=Save Seville from the evil Torrebruno
+Exec=capitan
+Icon=capitan.png
+Terminal=false
+Type=Application
+Categories=Application;Game;ArcadeGame;
+StartupNotify=false
+

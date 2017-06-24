@@ -1,0 +1,1448 @@
+# CAPITAN SEVILLA, EL REMAKE
+# CEZ-GS, 2006
+#
+# In theses langX.txt files you can find every game message
+# to add any other language, you only need to edit any of them to translate to the language you want,
+# and save it with the name langX.txt, being X the last existing file number plus 1.
+# As you can see, the # sign comments a line when it's the first character on it.
+# All blank spaces before text are ignored, also blank lines are ignored too.
+
+# 0
+# Language name
+English
+
+# 1
+# Cargando. Por favor, espere...
+Loading. Please wait...
+
+# 2
+# Capitán Sevilla
+Captain 'S'
+
+# 3
+# Empezar a jugar
+Start to play
+
+# 4
+# Configuración
+Configure
+
+# 5
+# Definir teclas
+Define keys
+
+# 6
+# Extras
+Extras
+
+# 7
+# Salir al S.O.
+Exit to O.S.
+
+# 8
+# Efectos visuales
+Visual effects
+
+# 9
+# Scanlines
+Scanlines
+
+# 10
+# Sonido
+Sound volume
+
+# 11
+# Resolución
+Resolution
+
+# 12
+# Modo de pantalla
+Screen mode
+
+# 13
+#Volver al Menú principal
+Return to Main Menu
+
+# 14
+# Desactivado
+Off
+
+# 15
+# Activado
+On
+
+# 16
+# Pantalla completa
+Fullscreen
+
+# 17
+# En ventana
+Windowed
+
+# 18
+# Arriba
+Up
+
+# 19
+# Abajo
+Down
+
+# 20
+# Izquierda
+Left
+
+# 21
+# Derecha
+Right
+
+# 22
+# Disparo
+Fire
+
+# 23
+# Seleccionar
+Select
+
+# 24
+# Ver introducción
+Watch intro
+
+# 25
+# Creditos
+Credits
+
+# 26
+#
+THANK YOU
+
+# 27
+#
+to everyone who made part of
+
+# 28
+#
+Previous Menu
+
+# 29
+#
+that dream called CEZGS
+
+# 30
+#
+Abort game?
+
+# 31
+#
+Yes
+
+# 32
+#
+No
+
+# 33
+#
+Start in stage
+
+# 34
+#
+Enter password
+
+# 35
+#
+Correct password
+
+# 36
+#
+Incorrect password
+
+# 37
+#
+Game Over
+
+# 38
+# El remake
+The remake
+
+# 39
+# Diseño del remake
+A game by...
+
+# 40
+#
+Coding
+
+# 41
+#
+Visual effects
+
+# 42
+#
+Graphics
+
+# 43
+#
+Music
+
+# 44
+#
+Sound FX
+
+# 45
+#
+Production
+
+# 46
+#
+Based on the game
+
+# 47
+#
+Originally made by...
+
+# 48
+#
+Thanks to...
+
+# 49
+#
+Cover Art
+
+# 50
+# Configuración del juego
+Game config
+
+# 51
+# Dificultad
+Difficulty level
+
+# 52
+# Y colorín, colorado...
+... And that's the
+
+# 53
+# ... este juego se ha acabado
+... end of our story...
+
+# 54
+# Beta Testing
+Beta testing
+
+# 55
+# Trabajo gráfico adicional
+Additional graphic work 
+
+# 56
+# Dedicado a...
+Dedicated to...
+
+# 57
+# Samples de FX originales
+Original samples by...
+
+# 58
+# Tirao
+Really easy
+
+# 59
+# Normalillo
+Normal
+
+# 60
+# Mortal
+Deathly
+
+# 61
+# Panel en pruebas
+Testing panel
+
+# 62
+# Aquí su publicidad
+Here can be your ad
+
+# 63
+# Únete a la CEZTA
+Join the CEZTA
+
+# 64
+# ¡Hola mamá!
+Hi mom!
+
+# 65
+# Quotazo!
+Quotazo!
+
+# 66
+# Quicir
+Quicir
+
+# 67
+# Usa el transporte publico
+Use public transport
+
+# 68
+# Próxima parada: RetroMadrid
+Next stop: RetroMadrid
+
+# 69
+# UWOL
+UWOOOOOOOOOOOOOOOOOOL
+
+# 70
+# ----- ----- --
+----- ----- --
+
+# 71
+# Loppo noroccidental
+Loppo noroccidental
+
+# 72
+# Próxima parada: RetroMañia
+Next stop: RetroMañia
+
+# 73
+# Próxima parada: RetroEuskal
+Next stop: RetroEuskal
+
+# 74
+# Panel Code by Prof. Falken
+Panel Code by Prof. Falken
+
+# 75
+# 
+MENSAJE LIBRE
+
+# 76
+#
+MENSAJE LIBRE
+
+# 77
+#
+MENSAJE LIBRE
+
+# 78
+#
+MENSAJE LIBRE
+
+# 79
+#
+MENSAJE LIBRE
+
+# 80
+#
+MENSAJE LIBRE
+
+# 81
+# Configurar pantalla
+Configure screen
+
+# 82
+# Configurar sonido
+Configure sound
+
+# 83
+# Configurar controles
+Configure controls
+
+# 84
+# Volumen de efectos
+Sound FX volume
+
+# 85
+# Volumen de música
+Music volume
+
+# 86
+# Búfer de sonido
+Búfer de sonido
+
+# 87
+# La contraseña para la
+The password to
+
+# 88
+# segunda parte es ...
+the second part is...
+
+# 89
+# Modo demo
+Demo Mode
+
+# 90
+# Pulsa cualquier tecla
+Press any key
+
+# 91
+# Teclado
+Keyboard
+
+# 92
+# Joystick
+Joystick
+
+# 93
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 94
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 95
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 96
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 97
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 98
+# Capitán
+Captain
+
+# 99
+# Sevilla
+'S'
+
+# 100
+# Amanece sobre la base de lanzamiento
+It's dawn over Santiponce's 
+
+# 101
+# de artilugios interestratosféricos
+interstratospheric devices
+
+# 102
+# de Santiponce (Sevilla)
+launching base.
+
+# 103
+# ¡Despejen la
+Clear the
+
+# 104
+# pista! ¡Empieza
+runway! Countdown
+
+# 105
+# la cuenta
+is
+
+# 106
+# atrás!
+beginning!
+
+# 107
+# ... Y dígame
+...So tell me
+
+# 108
+# Comandante...
+Commander...
+
+# 109
+# 10... 9... 8... 7... 6...
+10... 9... 8... 7... 6...
+
+# 110
+# 5... 4...
+5... 4...
+
+# 111
+# Tres...
+Three...
+
+# 112
+# Dos...
+Two...
+
+# 113
+# Uno...
+One...
+
+# 114
+# ¿Por qué no es-
+Why isn't here
+
+# 115
+# tá aquí el cientí-
+the scientist
+
+# 116
+# fico que pro-
+who designed
+
+# 117
+# yectó el cohete?
+the rocket?
+
+# 118
+# Bueno... El Prof.
+Well... Prof.
+
+# 119
+# Torrebruno era un
+Torrebruno was a
+
+# 120
+# genio, sin duda, pero
+genius, undoubtly, but
+
+# 121
+# se volvió loco repentina-
+he suddenly became crazy,
+
+# 122
+# mente, así que tuvimos que
+so we had to
+
+# 123
+# encerrarle en Congrio, el
+lock him in Congrio, the
+
+# 124
+# Planetoide Manicomio
+Galaxy's Madhouse
+
+# 125
+# de la Galaxia...
+Planetoid...
+
+# 126
+# ¿Por qué lo pregunta
+Why are you asking
+
+# 127
+# Professor? ...
+Professor? ...
+
+# 128
+# ...CERO!!
+...Zero!!
+
+# 129
+# Oh... por
+Oh... it's
+
+# 130
+# nada... por
+nothing, it's
+
+# 131
+# nada...
+nothing...
+
+# 132
+# Por lo que yo
+As far as
+
+# 133
+# tengo entendido,
+I know,
+
+# 134
+# Vd. ha revisado todo
+You have supervised the
+
+# 135
+# el proyecto... ¿Es que
+whole project. Do you
+
+# 136
+# tiene alguna duda sobre
+have any doubt about
+
+# 137
+# la seguridad del
+the rocket's
+
+# 138
+# cohete? ...
+security? ...
+
+# 139
+# ¿Cohete? ...
+Rocket? ...
+
+# 140
+# ¿Qué cohete? ...
+What rocket? ...
+
+# 141
+# ¡Oh, sí! Claro...
+Yes! Of course...
+
+# 142
+# El Cohete...
+The Rocket...
+
+# 143
+# Je, je...
+He, he...
+
+# 144
+# ¡Un magnífico
+A magnificent
+
+# 145
+# cohete! ...
+rocket! ...
+
+# 146
+# ¡ATÓMICO!
+ATOMIC!
+
+# 147
+# ¡SUPERSÓNICO!
+SUPERSONIC!
+
+# 148
+# ¡MEGAFÓNICO!
+MEGAPHONIC!
+
+# 149
+# ¡HIPERTRÓFICO!
+HIPERTROPHIC!
+
+# 150
+# ¡Sí señor!
+Yes sir!
+
+# 151
+# Excepcionalmente
+Exceptionally
+
+# 152
+# seguro. Capaz de
+safe. Capable of
+
+# 153
+# llegar al más le-
+reaching the far-
+
+# 154
+# jano confín de
+thest confines of
+
+# 155
+# ...
+...
+
+# 156
+# En aquellos instantes, Mariano López,
+In those moments, Mariano López,
+
+# 157
+# repartidor de embutidos, circula por
+sausages delivery man, is driving
+
+# 158
+# las cercanías de Santiponce...
+near Santiponce...
+
+
+# 159
+# Lolailo
+Lolailo
+
+# 160
+# Lailo
+lailo
+
+# 161
+# Hum... Urps...
+Hum... Urps...
+
+# 162
+# ¿Qué es eso
+What's this
+
+# 163
+# que cae
+that's falling
+
+# 164
+# del cielo? ...
+from the sky? ...
+
+# 165
+# ¡¡¿Qué ...
+What ...
+
+# 166
+# qué ha ...
+has...
+
+# 167
+# pasado ?!!
+happened ?!!
+
+# 168
+# ¡Joder, qué hambre me
+Damn, I'm so
+
+# 169
+# ha entrado! ¡Mmm! ...
+hungry! Mmm! ...
+
+# 170
+# Creo que me voy a
+I think I'm gonna
+
+# 171
+# zampar un par de
+eat a pair of
+
+# 172
+# morcillas...
+blood sausages...
+
+# 173
+# Mariano ignora que la radioactividad liberada por la ex-
+Mariano ignores that the explosion radioactivity
+
+# 174
+# plosión ha mutado la estructura orgánica de los embu-
+has mutated the organic structure of the sausages,
+
+# 175
+# tidos, y se engulle una caja entera de morcillas ...
+and he gobbles a whole box of blood sausages ...
+
+# 176 
+# ¡Humpfh! ...
+¡Humpfh! ...
+
+# 177
+# Están más ricas
+They're
+
+# 178
+# que de
+tastier
+
+# 179
+# costumbre ...
+than usual...
+
+# 180
+# ¡¡Ñam
+Gronf
+
+# 181
+# Ñam!!
+gronf!!
+
+# 182
+# ¡Buff! Creo que
+Buff! I think
+
+# 183
+# me he pasado...
+I overate...
+
+# 184
+# ¡No me encuentro
+I'm not feeling
+
+# 185
+# muy bien! ...
+too well! ...
+
+# 186
+# ¿Qué
+What's
+
+# 187
+# ...pasa? 
+going
+
+# 188
+# Ufff...
+on?
+
+# 189
+# Dos... Tres... Mariano tiembla. Su esqueleto crece... sus
+Two, three, Mariano is shaking, his skeleton grows, his
+
+# 190
+# músculos se hinchan ... su cerebro... ¡disminuye! ...
+muscles bloat, his brain...gets little!
+
+
+
+# 191
+# A partir de ese histórico memento, cada vez que
+From that historic moment on, every time that
+
+
+# 192
+# Mariano se zampe una morcilla, se convertirá en ...
+Mariano eats a sausage, He will become...
+
+
+# 193
+# ¡¡Ahhh!! Me
+Ahhhh! I am
+
+
+# 194
+# siento mejor...
+feeling better...
+
+
+# 195
+# ¡¡MUCHO MEJOR!!
+MUCH BETTER!!
+
+
+# 196
+# ¡¿Eh?! Pero...
+Uh?! but...
+
+
+# 197
+# ¿Qué es lo que
+What am I 
+
+
+# 198
+# estoy viendo con mi
+seeing with my
+
+
+# 199
+# Super Visión X?!!
+Super X Vision?!!
+
+
+# 200
+# Legiones de mutantes infestan las calles
+Thousands of mutants infect the streets
+
+
+# 201
+# de Sevilla, sembrando el pánico entre
+of Seville, causing panic among
+
+
+# 202
+# la población...
+the population
+
+
+# 203
+# ¡Claro! ¡Ahora
+That's it! Now
+
+# 204
+# lo entiendo todo!
+I can understand it!
+
+
+# 205
+# Los efectos de la
+The effects of the atomic
+
+
+# 206
+# explosión atómica han
+blast have transformed
+
+
+# 207
+# mutado a esa pobre gente
+all that innocent people
+
+
+# 208
+# en horribles engendros!!
+into horrible creatures!!
+
+
+# 209
+# ¡¡Debo limpiar Sevilla de
+I must clean Seville
+
+
+# 210
+# toda esa inmundicia!!
+from all that trash!
+
+
+# 211
+# Pero otras cosas aún más graves están sucediendo en Congrio, el 
+But other things, even more important, are taking place at Congrio,
+
+# 212
+# Planetoide Manicomio, donde el Prof. Torrebruno, tras acaudillar una 
+the Madhouse Planetoid, where Professor Torrebruno, after leading a 
+
+
+# 213
+# revuelta en el Frenopático, se ha hecho con el control de la situación, 
+revolution in the Phrenopatic, has taken over the situation,
+
+
+
+# 214
+# al frente de los mutantes dementes...
+as the visible head leader of the insane mutants
+
+
+# 215
+# ¡Seguidme! ¡Ja!
+Follow me! Ha!
+
+
+# 216
+# ¡Invadiremos la
+We'll invade the 
+
+
+# 217
+# Tierra! ¡Tomaremos
+Earth! We'll conquer
+
+
+# 218
+# Sevilla!
+Seville!
+
+
+# 219
+# ¡Ja, ja, ja, ja!
+Ha, ha, ha, ha!
+
+
+# 220
+# ¡¡Con mi cañón
+With my plasma
+
+
+# 221
+# emisor de Plasma
+radionicotic gun
+
+
+# 222
+# radionicótico para-
+I will paralyze
+
+
+# 223
+# lizaré la vida en
+every life form
+
+
+# 224
+# la Tierra!!
+on Earth
+
+
+# 225
+# ... ¡¡ Cuando yo
+When I arrive,
+
+
+# 226
+# llegue, no podrán
+they won't be able
+
+
+# 227
+# hacer nada por
+to do anything
+
+
+# 228
+# por detenerme!!
+to stop me!!
+
+
+# 229
+# ¡¡ Seré el
+I will be the
+
+
+# 230
+# Emperador
+Emperor
+
+
+# 231
+# del Universo !!
+of the Universe !
+
+
+# 232
+# ¡Levantaré
+I'll build
+
+
+# 233
+# mi palacio sobre
+my palace over
+
+
+# 234
+# las ruinas de la
+the leftovers of the
+
+
+# 235
+# Torre del Oro!
+Torre del Oro!
+
+
+# 236
+# ¡Ja, ja!
+Ha, ha!
+
+
+# 237
+# ¡Ja, ja
+Ha, ha!
+
+
+# 238
+# ja, ja!
+Ha, ha!
+
+
+# 239
+# ¿Eh?... ¡Mi super-
+Uh?!... my super
+
+
+# 240
+# noveno sentido me
+ninth sense it's
+
+
+# 241
+# advierte del
+alerting me
+
+
+# 242
+# verdadero
+from the real
+
+
+# 243
+# peligro!
+danger!
+
+
+# 244
+# ¡Los mutantes
+Mutants
+
+
+# 245
+# no son ame-
+are not a threat
+
+
+# 246
+# naza alguna
+compared 
+
+
+# 247
+# al lado de
+with that 
+
+
+# 248
+# ese loco!
+mad Professor!
+
+
+# 249
+# ¡¡Yo me encargaré
+I will take on him
+
+
+# 250
+# de él y destruiré
+& I'll also destroy
+
+
+# 251
+# su diabólica
+his evil
+
+
+# 252
+# invención!!
+invention!
+
+
+# 253
+# Pero el Capitán
+But Captain 'S'
+
+
+# 254
+# Sevilla no podrá
+won't be able to
+
+# 255
+# hacer nada
+do anything
+
+
+# 256
+# contra el malvado
+against the evil
+
+
+# 257
+# Torrebruno y
+Torrebruno and 
+
+
+# 258
+# su peligrosa
+his dangerous
+
+
+# 259
+# horda de demente-
+horde of insane-
+
+
+# 260
+# mutantes si no
+mutants If he
+
+
+# 261
+# cuenta con
+doesn't get some 
+
+
+# 262
+# tu ayuda ...
+help from you...
+
+
+# 263
+# ¿Podréis detener
+Will you be able to
+
+
+# 264
+# juntos este malé-
+stop together this
+
+ 
+# 265
+# volo plan... ?
+perfid plan?...
+
+# 266
+# ¿Podréis salvar
+Will you be able to
+
+
+# 267
+# la Tierra del
+save the Earth
+
+
+# 268
+# inminente caos?
+from the chaos?
+
+
+# 269
+# ... ¡¡Descúbrelo
+Find it out
+
+# 270
+# jugando !! ...
+by playing!! ...
+ 
+# 271
+# Controlada por el piloto automático, la nave se
+Controlled by the automatic pilot, the ship
+
+# 272
+#eleva, llegando al espacio exterior. La Tierra
+gets up. arriving in outer space. The Earth
+
+# 273
+# se queda atrás, y Mariano tiene un presentimiento...
+is further now, and Mariano has a bad feeling...
+
+# 274
+# ¡Ondiá!
+Damn!
+
+# 275
+# Creo que dejé
+I think I left
+
+# 276
+# el grifo abierto...
+the tap open
+
+# 277
+# Por cierto...
+By the way
+
+# 278
+# ¿Dónde irá
+Where is this
+
+# 279
+# este trasto?
+thing going?
+
+# 280
+# Aquí,
+Here,
+
+# 281
+# en este panel
+in this pannel
+
+# 282
+# pone ...
+says: DESTINATION
+
+# 283
+# DESTINO CONGRIO
+CONGRIO
+
+# 284
+# Mmmm... Una
+Mmmm... a
+
+
+# 285
+# racioncita de
+good dish
+
+
+# 286
+# Congrio sí que
+of Congrio... that
+
+
+# 287
+# me comía ahora...
+would be great!
+
+
+# 288
+# ¡Ay, no!
+Oh, no!
+
+
+# 289
+# Que se refiere
+It talks about
+
+
+# 290
+# al planeta mani-
+the planet from
+
+
+# 291
+# comio del loco 
+that mad pro -
+
+
+# 292
+# ese...
+fessor...
+
+
+# 293
+# Bueno,
+Well, it's a
+
+
+# 294
+# aprovecharé
+good opportu -
+
+
+# 295
+# para ver a
+nity to see
+
+# 296
+# mis amigos
+my friends
+
+
+
+# 297
+# de CEZ...
+from CEZ...
+
+
+
+# 298
+# Y tras un suave acongrizaje, nuestro héroe ya está
+and after a smooth landing, our hero is already
+
+
+# 299
+# listo para repartir justicia entre tanto mutante...
+ready to make justice against all those mutants...
+
+
+# 300
+# ¡Ay
+ouch!
+
+
+# 301
+# mare!
+mummy!
+
+
+# 302
+# Torrebruno,
+Torrebruno,
+
+
+# 303
+# ¡Prepárate a
+Get ready to
+
+
+# 304
+# vértelas conmigo!
+fight with me!
+
+
+# 305
+# Salvaré Sevilla...
+I'll save Seville...
+
+
+# 306
+# ... y el Mundo!
+and the world!
+
+
+# 307
+# Y en el memento en que desapareció el malvado
+and as the evil professor Torrebruno vanished
+
+# 308
+#Torrebruno, todos los mutantes volvieron a su
+all the mutants became normal
+
+
+# 309
+# estado original, y los extraterrestes
+people again and the aliens
+
+
+# 310
+# desaparecieron... Todos los mutantes
+dissappeared... All the mutants
+
+
+# 311
+# ... ¡excepto uno! Mariano López quedó
+... but one! Mariano Lopez remained
+
+
+# 312
+#transformado para siempre en el Capitán 
+transformed as the Captain 'S' forever!
+
+
+# 313
+#Sevilla, siendo contratado por el Ayunta -
+The city council hired him
+
+
+# 314
+# miento como atracción turística...
+as a turistic attraction...
+
+
+# 315
+# Y no sólo la fama y la fortuna esperan a nuestro héroe morcillil... Salvar el
+and not only fame and fortune await our sausaging hero... Saving the
+
+
+# 316
+# Universo es tarea dura, y ahora tiene que reponerse, descansar, dar a co -
+universe is a hard task, and now he has to rest, recover and let all tourists
+
+
+# 317
+# nocer su historia a las turistas... ¡y tomar una racioncita de morcilla!
+know his story...and have a good dish of sausage!
+
+
+# 318
+# No sé que
+What they
+
+
+# 319
+# ven en él
+see on him
+
+
+# 320
+# que no tenga yo,
+that I don't have?
+
+
+# 321
+# la verdad...
+the truth is...
+
+
+# 322
+# Yo me quedo
+that I rather
+
+
+# 323
+# con las chicas
+get the girls ...
+
+
+# 324
+# ... y me pongo
+and have
+
+
+# 325
+# las botillas
+a good time
+
+
+# 326
+# Jur!!!
+Jur!!!
+
+# 327
+# CAMIONERO
+TRUCK DRIVER
+
+# 328
+# SALVA SEVILLA
+SAVES SEVILLA
+
+# 329
+# El precio de la morcilla por las nubes
+Sausage price is raising indeed

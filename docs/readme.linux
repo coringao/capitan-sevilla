@@ -1,0 +1,32 @@
+Readme for Capitán Sevilla - Remake (Linux version)
+------------------------------------------------
+
+This package includes a statically linked executable of this
+program. It is only included to let people who has no way to
+install the Allegro library to play the game. It has no
+(as far as I know) machine dependent optimizations.
+
+If you can compile the game then do it instead of using the
+included executable. You can follow the instructions detailed
+on INSTALL file: Please, read it.
+
+I do not accept responsibility for any effects, adverse or 
+otherwise, that this program may have on your computer, 
+use it at your own risk.
+
+
+Léeme para Capitán Sevilla - Remake (Versión Linux)
+------------------------------------------------
+
+Este paquete incluye una versión enlazada estaticamente de
+este programa. Sólo se incluye para permitir a la gente que
+no tiene forma de instalar la librería Allegro jugar al juego.
+No tiene (hasta donde yo sé) optimizaciones que dependan de la
+máquina.
+
+Si puedes compilar este juego házlo en lugar de usar el ejecutable
+incluído. Puedes seguir las instrucciones detalladas en el fichero
+INSTALL: Por favor, léelo.
+
+No acepto responsabilidad de ningún efecto, adverso o no, que este
+programa pueda hacer en tu ordenador, úsalo bajo tu propio riesgo.

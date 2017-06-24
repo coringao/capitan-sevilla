@@ -1,0 +1,1329 @@
+# CAPITAN SEVILLA, EL REMAKE
+# CEZ-GS, 2006
+#
+# En estos ficheros langX se encuentran todos los mensajes del programa en los distintos idiomas que soporte.
+# Para añadir alguno más, bastará con editar uno cualquiera traduciéndolo, y guardarlo con el nombre langX.txt ,
+# siendo X el número del último fichero existente +1.
+# Como puede verse, el signo # sirve para comentar una línea cuando es el primer character.
+# Todos los espacios en blanco antes de empezar el texto son ignorados, así como las líneas en blanco.
+
+# 0
+# Nombre del idioma
+Español
+
+# 1
+# Cargando. Por favor, espere...
+Cargando. Por favor, espere...
+
+# 2
+# Capitán Sevilla
+Capitán Sevilla
+
+# 3
+# Empezar a jugar
+Empezar a jugar
+
+# 4
+# Configuración
+Configuración
+
+# 5
+# Definir teclas
+Definir teclas
+
+# 6
+# Extras
+Extras
+
+# 7
+# Salir al S.O.
+Salir al S.O.
+
+# 8
+# Efectos visuales
+Efectos visuales
+
+# 9
+# Scanlines
+Scanlines
+
+# 10
+# Sonido
+Volumen de sonido
+
+# 11
+# Resolución
+Resolución
+
+# 12
+# Modo de pantalla
+Modo de pantalla
+
+# 13
+#Volver al Menú principal
+Volver al Menú principal
+
+# 14
+# Desactivado
+Desactivado
+
+# 15
+# Activado
+Activado
+
+# 16
+# Pantalla completa
+Completa
+
+# 17
+# En ventana
+En ventana
+
+# 18
+# Arriba
+Arriba
+
+# 19
+# Abajo
+Abajo
+
+# 20
+# Izquierda
+Izquierda
+
+# 21
+# Derecha
+Derecha
+
+# 22
+# Disparo
+Disparo
+
+# 23
+# Seleccionar
+Seleccionar
+
+# 24
+# Ver introducción
+Ver introducción
+
+# 25
+# Creditos
+Créditos
+
+# 26
+#
+Muchas Gracias
+
+# 27
+#
+A todos los que formaron parte
+
+# 28
+#
+Menú Anterior
+
+# 29
+#
+de ese sueño llamado CEZGS
+
+# 30
+#
+¿Abortar partida?
+
+# 31
+#
+Si
+
+# 32
+#
+No
+
+# 33
+#
+Comenzar en fase
+
+# 34
+#
+Introduzca contraseña
+
+# 35
+#
+Contraseña correcta
+
+# 36
+#
+Contraseña incorrecta
+
+# 37
+#
+Se   acabó
+
+# 38
+# El remake
+El remake
+
+# 39
+# Diseño del remake
+Un juego de...
+
+# 40
+#
+Programación
+
+# 41
+#
+Efectos Visuales
+
+# 42
+#
+Gráficos
+
+# 43
+#
+Música
+
+# 44
+#
+Efectos sonoros
+
+# 45
+#
+Coordinación y Producción
+
+# 46
+#
+Basado en el juego
+
+# 47
+#
+Realizado originalmente por...
+
+# 48
+#
+Agradecimientos
+
+# 49
+#
+Ilustración portada
+
+# 50
+# Configuración del juego
+Configuración del juego
+
+# 51
+# Dificultad
+Dificultad
+
+# 52
+# Y colorín, colorado...
+Y colorín, colorado...
+
+# 53
+# ... este juego se ha acabado
+... este juego se ha acabado
+
+# 54
+# Beta Testing
+Beta testing
+
+# 55
+# Trabajo gráfico adicional
+Trabajo gráfico adicional
+
+# 56
+# Dedicado a...
+Dedicado a...
+
+# 57
+# Samples de FX originales
+Samples de FX originales
+
+# 58
+# Tirao
+Tirao
+
+# 59
+# Normalillo
+Normalillo
+
+# 60
+# Mortal
+Mortal
+
+# 61
+# Panel en pruebas
+Panel en pruebas
+
+# 62
+# Aquí su publicidad
+Aquí su publicidad
+
+# 63
+# Únete a la CEZTA
+Únete a la CEZTA
+
+# 64
+# ¡Hola mamá!
+¡Hola mamá!
+
+# 65
+# Quotazo!
+Quotazo!
+
+# 66
+# Quicir
+Quicir
+
+# 67
+# Usa el transporte publico
+Usa el transporte público
+
+# 68
+# Próxima parada: RetroMadrid
+Próxima parada: RetroMadrid
+
+# 69
+# UWOL
+UWOOOOOOOOOOOOOOOOOOL
+
+# 70
+# ----- ----- --
+----- ----- --
+
+# 71
+# Loppo noroccidental
+Loppo noroccidental
+
+# 72
+# Próxima parada: RetroMañia
+Próxima parada: RetroMañia
+
+# 73
+# Próxima parada: RetroEuskal
+Próxima parada: RetroEuskal
+
+# 74
+# Panel Code by Prof. Falken
+Panel Code by Prof. Falken
+
+# 75
+# 
+MENSAJE LIBRE
+
+# 76
+#
+MENSAJE LIBRE
+
+# 77
+#
+MENSAJE LIBRE
+
+# 78
+#
+MENSAJE LIBRE
+
+# 79
+#
+MENSAJE LIBRE
+
+# 80
+#
+MENSAJE LIBRE
+
+# 81
+# Configurar pantalla
+Configurar pantalla
+
+# 82
+# Configurar sonido
+Configurar sonido
+
+# 83
+# Configurar controles
+Configurar controles
+
+# 84
+# Volumen de efectos
+Volumen de efectos
+
+# 85
+# Volumen de música
+Volumen de música
+
+# 86
+# Búfer de sonido
+Búfer de sonido
+
+# 87
+# La contraseña para la
+La contraseña para la
+
+# 88
+# segunda parte es ...
+segunda parte es ...
+
+# 89
+# Modo demo
+Modo Demo
+
+# 90
+# Pulsa cualquier tecla
+Pulsa cualquier tecla
+
+# 91
+# Teclado
+Teclado
+
+# 92
+# Joystick
+Joystick
+
+# 93
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 94
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 95
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 96
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 97
+# MENSAJE LIBRE
+MENSAJE LIBRE
+
+# 98
+# Capitán
+Capitán
+
+# 99
+# Sevilla
+Sevilla
+
+# 100
+# Amanece sobre la base de lanzamiento
+Amanece sobre la base de lanzamiento
+
+# 101
+# de artilugios interestratosféricos
+de artilugios interestratosféricos
+
+# 102
+# de Santiponce (Sevilla)
+de Santiponce (Sevilla)
+
+# 103
+# ¡Despejen la
+¡Despejen la
+
+# 104
+# pista! ¡Empieza
+pista! ¡Empieza
+
+# 105
+# la cuenta
+la cuenta
+
+# 106
+# atrás!
+atrás!
+
+# 107
+# ... Y dígame
+... Y dígame
+
+# 108
+# Comandante...
+Comandante...
+
+# 109
+# 10... 9... 8... 7... 6...
+10... 9... 8... 7... 6...
+
+# 110
+# 5... 4...
+5... 4...
+
+# 111
+# Tres...
+Tres...
+
+# 112
+# Dos...
+Dos...
+
+# 113
+# Uno...
+Uno...
+
+# 114
+# ¿Por qué no es-
+¿Por qué no es-
+
+# 115
+# tá aquí el cientí-
+tá aquí el cientí-
+
+# 116
+# fico que pro-
+fico que pro-
+
+# 117
+# yectó el cohete?
+yectó el cohete?
+
+# 118
+# Bueno... El Prof.
+Bueno... El Prof.
+
+# 119
+# Torrebruno era un
+Torrebruno era un
+
+# 120
+# genio, sin duda, pero
+genio, sin duda, pero
+
+# 121
+# se volvió loco repentina-
+se volvió loco repentina-
+
+# 122
+# mente, así que tuvimos que
+mente, así que tuvimos que
+
+# 123
+# encerrarle en Congrio, el
+encerrarle en Congrio, el
+
+# 124
+# Planetoide Manicomio
+Planetoide Manicomio
+
+# 125
+# de la Galaxia...
+de la Galaxia...
+
+# 126
+# ¿Por qué lo pregunta
+¿Por qué lo pregunta
+
+# 127
+# Professor? ...
+Professor? ...
+
+# 128
+# ...CERO!!
+...CERO!!
+
+# 129
+# Oh... por
+Oh... por
+
+# 130
+# nada... por
+nada... por
+
+# 131
+# nada...
+nada...
+
+# 132
+# Por lo que yo
+Por lo que yo
+
+# 133
+# tengo entendido,
+tengo entendido,
+
+# 134
+# Vd. ha revisado todo
+Vd. ha revisado todo
+
+# 135
+# el proyecto... ¿Es que
+el proyecto... ¿Es que
+
+# 136
+# tiene alguna duda sobre
+tiene alguna duda sobre
+
+# 137
+# la seguridad del
+la seguridad del
+
+# 138
+# cohete? ...
+cohete? ...
+
+# 139
+# ¿Cohete? ...
+¿Cohete? ...
+
+# 140
+# ¿Qué cohete? ...
+¿Qué cohete? ...
+
+# 141
+# ¡Oh, sí! Claro...
+¡Oh, sí! Claro...
+
+# 142
+# El Cohete...
+El Cohete...
+
+# 143
+# Je, je...
+Je, je...
+
+# 144
+# ¡Un magnífico
+¡Un magnífico
+
+# 145
+# cohete! ...
+cohete! ...
+
+# 146
+# ¡ATÓMICO!
+¡ATÓMICO!
+
+# 147
+# ¡SUPERSÓNICO!
+¡SUPERSÓNICO!
+
+# 148
+# ¡MEGAFÓNICO!
+¡MEGAFÓNICO!
+
+# 149
+# ¡HIPERTRÓFICO!
+¡HIPERTRÓFICO!
+
+# 150
+# ¡Sí señor!
+¡Sí señor!
+
+# 151
+# Excepcionalmente
+Excepcionalmente
+
+# 152
+# seguro. Capaz de
+seguro. Capaz de
+
+# 153
+# llegar al más le-
+llegar al más le-
+
+# 154
+# jano confín de
+jano confín de
+
+# 155
+# ...
+...
+
+# 156
+# En aquellos instantes, Mariano López,
+En aquellos instantes, Mariano López,
+
+# 157
+# repartidor de embutidos, circula por
+repartidor de embutidos, circula por
+
+# 158
+# las cercanías de Santiponce...
+las cercanías de Santiponce...
+
+
+# 159
+# Lolailo
+Lolailo
+
+# 160
+# Lailo
+lailo
+
+# 161
+# Hum... Urps...
+Hum... Urps...
+
+# 162
+# ¿Qué es eso
+¿Qué es eso
+
+# 163
+# que cae
+que cae
+
+# 164
+# del cielo? ...
+del cielo? ...
+
+# 165
+# ¡¡¿Qué ...
+¡¡¿Qué ...
+
+# 166
+# qué ha ...
+qué ha ...
+
+# 167
+# pasado ?!!
+pasado ?!!
+
+# 168
+# ¡Joder, qué hambre me
+¡Joder, qué hambre me
+
+# 169
+# ha entrado! ¡Mmm! ...
+ha entrado! ¡Mmm! ...
+
+# 170
+# Creo que me voy a
+Creo que me voy a
+
+# 171
+# zampar un par de
+zampar un par de
+
+# 172
+# morcillas...
+morcillas...
+
+# 173
+# Mariano ignora que la radioactividad liberada por la ex-
+Mariano ignora que la radioactividad liberada por la ex-
+
+# 174
+# plosión ha mutado la estructura orgánica de los embu-
+plosión ha mutado la estructura orgánica de los embu-
+
+# 175
+# tidos, y se engulle una caja entera de morcillas ...
+tidos, y se engulle una caja entera de morcillas ...
+
+# 176 
+# ¡Humpfh! ...
+¡Humpfh! ...
+
+# 177
+# Están más ricas
+Están más ricas
+
+# 178
+# que de
+que de
+
+# 179
+# costumbre ...
+costumbre ...
+
+# 180
+# ¡¡Ñam
+¡¡Ñam
+
+# 181
+# Ñam!!
+Ñam!!
+
+# 182
+# ¡Buff! Creo que
+¡Buff! Creo que
+
+# 183
+# me he pasado...
+me he pasado...
+
+# 184
+# ¡No me encuentro
+¡No me encuentro
+
+# 185
+# muy bien! ...
+muy bien! ...
+
+# 186
+# ¿Qué
+¿Qué...
+
+# 187
+# ...pasa? 
+...pasa? 
+
+# 188
+# Ufff...
+Ufff...
+
+# 189
+# Dos... Tres... Mariano tiembla. Su esqueleto crece... sus
+Dos... Tres... Mariano tiembla. Su esqueleto crece... sus
+
+# 190
+# músculos se hinchan ... su cerebro... ¡disminuye! ...
+músculos se hinchan ... su cerebro... ¡disminuye! ...
+
+# 191
+# A partir de ese histórico memento, cada vez que
+A partir de ese histórico memento, cada vez que
+
+# 192
+# Mariano se zampe una morcilla, se convertirá en ...
+Mariano se zampe una morcilla, se convertirá en ...
+
+# 193
+# ¡¡Ahhh!! Me
+¡¡Ahhh!! Me
+
+# 194
+# siento mejor...
+siento mejor...
+
+# 195
+# ¡¡MUCHO MEJOR!!
+¡¡MUCHO MEJOR!!
+
+# 196
+# ¡¿Eh?! Pero...
+¡¿Eh?! Pero...
+
+# 197
+# ¿Qué es lo que
+¡¡¿Qué es lo que
+
+# 198
+# estoy viendo con mi
+estoy viendo con mi
+
+# 199
+# Super Visión X?!!
+Super Visión X?!!
+
+# 200
+# Legiones de mutantes infestan las calles
+Legiones de mutantes infestan las calles
+
+# 201
+# de Sevilla, sembrando el pánico entre
+de Sevilla, sembrando el pánico entre
+
+# 202
+# la población...
+la población...
+
+# 203
+# ¡Claro! ¡Ahora
+¡Claro! ¡Ahora
+
+# 204
+# lo entiendo todo!
+lo entiendo todo!
+
+# 205
+# Los efectos de la
+¡¡Los efectos de la
+
+# 206
+# explosión atómica han
+explosión atómica han
+
+# 207
+# mutado a esa pobre gente
+mutado a esa pobre gente
+
+# 208
+# en horribles engendros!!
+en horribles engendros!!
+
+# 209
+# ¡¡Debo limpiar Sevilla de
+¡¡Debo limpiar Sevilla de
+
+# 210
+# toda esa inmundicia!!
+toda esa inmundicia!!
+
+# 211
+# Pero otras cosas aún más graves están sucediendo en Congrio, el 
+Pero otras cosas aún más graves están sucediendo en Congrio, el
+
+# 212
+# Planetoide Manicomio, donde el Prof. Torrebruno, tras acaudillar una 
+Planetoide Manicomio, donde el Prof. Torrebruno, tras acaudillar una
+
+# 213
+# revuelta en el Frenopático, se ha hecho con el control de la situación, 
+revuelta en el Frenopático, se ha hecho con el control de la situación,
+
+# 214
+# al frente de los mutantes dementes...
+al frente de los mutantes dementes...
+
+# 215
+# ¡Seguidme! ¡Ja!
+¡Seguidme! ¡Ja!
+
+# 216
+# ¡Invadiremos la
+¡Invadiremos la
+
+# 217
+# Tierra! ¡Tomaremos
+Tierra! ¡Tomaremos
+
+# 218
+# Sevilla!
+Sevilla!
+
+# 219
+# ¡Ja, ja, ja, ja!
+¡Ja, ja, ja, ja!
+
+# 220
+# ¡¡Con mi cañón
+¡¡Con mi cañón
+
+# 221
+# emisor de Plasma
+emisor de Plasma
+
+# 222
+# radionicótico para-
+radionicótico para-
+
+# 223
+# lizaré la vida en
+lizaré la vida en
+
+# 224
+# la Tierra!!
+la Tierra!!
+
+# 225
+# ... ¡¡ Cuando yo
+... ¡¡ Cuando yo
+
+# 226
+# llegue, no podrán
+llegue, no podrán
+
+# 227
+# hacer nada por
+hacer nada por
+
+# 228
+# por detenerme!!
+por detenerme!!
+
+# 229
+# ¡¡ Seré el
+¡¡ Seré el
+
+# 230
+# Emperador
+Emperador
+
+# 231
+# del Universo !!
+del Universo !!
+
+# 232
+# ¡Levantaré
+¡Levantaré
+
+# 233
+# mi palacio sobre
+mi palacio sobre
+
+# 234
+# las ruinas de la
+las ruinas de la
+
+# 235
+# Torre del Oro!
+Torre del Oro!
+
+# 236
+# ¡Ja, ja!
+¡Ja, ja!
+
+# 237
+# ¡Ja, ja
+¡Ja, ja
+
+# 238
+# ja, ja!
+ja, ja!
+
+# 239
+# ¿Eh?... ¡Mi super-
+¿Eh?... ¡Mi super-
+
+# 240
+# noveno sentido me
+noveno sentido me
+
+# 241
+# advierte del
+advierte del
+
+# 242
+# verdadero
+verdadero
+
+# 243
+# peligro!
+peligro!
+
+# 244
+# ¡Los mutantes
+¡Los mutantes
+
+# 245
+# no son ame-
+no son ame-
+
+# 246
+# naza alguna
+naza alguna
+
+# 247
+# al lado de
+al lado de
+
+# 248
+# ese loco!
+ese loco!
+
+# 249
+# ¡¡Yo me encargaré
+¡¡Yo me encargaré
+
+# 250
+# de él y destruiré
+de él y destruiré
+
+# 251
+# su diabólica
+su diabólica
+
+# 252
+# invención!!
+invención!!
+
+# 253
+# Pero el Capitán
+Pero el Capitán
+
+# 254
+# Sevilla no podrá
+Sevilla no podrá
+
+# 255
+# hacer nada
+hacer nada
+
+# 256
+# contra el malvado
+contra el malvado
+
+# 257
+# Torrebruno y
+Torrebruno y
+
+# 258
+# su peligrosa
+su peligrosa
+
+# 259
+# horda de demente-
+horda de demente-
+
+# 260
+# mutantes si no
+mutantes si no
+
+# 261
+# cuenta con
+cuenta con
+
+# 262
+# tu ayuda ...
+tu ayuda ...
+
+# 263
+# ¿Podréis detener
+¿Podréis detener
+
+# 264
+# juntos este malé-
+juntos este malé-
+
+# 265
+# volo plan... ?
+volo plan... ?
+
+# 266
+# ¿Podréis salvar
+¿Podréis salvar
+
+# 267
+# la Tierra del
+la Tierra del
+
+# 268
+# inminente caos?
+inminente caos?
+
+# 269
+# ... ¡¡Descúbrelo
+... ¡¡Descúbrelo
+
+# 270
+# jugando !! ...
+jugando !! ...
+
+# 271
+# Controlada por el piloto automático, la nave se
+Controlada por el piloto automático, la nave se
+
+# 272
+#eleva, llegando al espacio exterior. La Tierra
+eleva, llegando al espacio exterior. La Tierra
+
+# 273
+# se queda atrás, y Mariano tiene un presentimiento...
+se queda atrás, y Mariano tiene un presentimiento...
+
+# 274
+# ¡Ondiá!
+¡Ondiá!
+
+# 275
+# Creo que dejé
+Creo que dejé
+
+# 276
+# el grifo abierto...
+el grifo abierto...
+
+# 277
+# Por cierto...
+Por cierto...
+
+# 278
+# ¿Dónde irá
+¿Dónde irá
+
+# 279
+# este trasto?
+este trasto?
+
+# 280
+# Aquí,
+Aquí,
+
+# 281
+# en este panel
+en este panel
+
+# 282
+# pone ...
+pone ...
+
+# 283
+# DESTINO CONGRIO
+DESTINO CONGRIO
+
+# 284
+# Mmmm... Una
+Mmmm... Una
+
+# 285
+# racioncita de
+racioncita de
+
+# 286
+# Congrio sí que
+Congrio sí que
+
+# 287
+# me comía ahora...
+me comía ahora...
+
+# 288
+# ¡Ay, no!
+¡Ay, no!
+
+# 289
+# Que se refiere
+Que se refiere
+
+# 290
+# al planeta mani-
+al planeta mani-
+
+# 291
+# comio del loco 
+comio del loco
+
+# 292
+# ese...
+ese...
+
+# 293
+# Bueno,
+Bueno,
+
+# 294
+# aprovecharé
+aprovecharé
+
+# 295
+# para ver a
+para ver a
+
+# 296
+# mis amigos
+mis amigos
+
+# 297
+# de CEZ...
+de CEZ...
+
+# 298
+# Y tras un suave acongrizaje, nuestro héroe ya está
+Y tras un suave acongrizaje, nuestro héroe ya está
+
+# 299
+# listo para repartir justicia entre tanto mutante...
+listo para repartir justicia entre tanto mutante...
+
+# 300
+# ¡Ay
+¡Ay
+
+# 301
+# mare!
+mare!
+
+# 302
+# Torrebruno,
+Torrebruno,
+
+# 303
+# ¡Prepárate a
+¡Prepárate a
+
+# 304
+# vértelas conmigo!
+vértelas conmigo!
+
+# 305
+# Salvaré Sevilla...
+¡Salvaré Sevilla...
+
+# 306
+# ... y el Mundo!
+... y el Mundo!
+
+# 307
+# Y en el memento en que desapareció el malvado
+Y en el memento en que desapareció el malvado
+
+# 308
+#Torrebruno, todos los mutantes volvieron a su
+Torrebruno, todos los mutantes volvieron a su
+
+# 309
+# estado original, y los extraterrestes
+estado original, y los extraterrestes
+
+# 310
+# desaparecieron... Todos los mutantes
+desaparecieron... Todos los mutantes
+
+# 311
+# ... ¡excepto uno! Mariano López quedó
+... ¡excepto uno! Mariano López quedó
+
+# 312
+#transformado para siempre en el Capitán 
+transformado para siempre en el Capitán
+
+# 313
+#Sevilla, siendo contratado por el Ayunta -
+Sevilla, siendo contratado por el Ayunta -
+
+# 314
+# miento como atracción turística...
+miento como atracción turística...
+
+# 315
+# Y no sólo la fama y la fortuna esperan a nuestro héroe morcillil... Salvar el
+Y no sólo la fama y la fortuna esperan a nuestro héroe morcillil... Salvar el
+
+# 316
+# Universo es tarea dura, y ahora tiene que reponerse, descansar, dar a co -
+Universo es tarea dura, y ahora tiene que reponerse, descansar, dar a co -
+
+# 317
+# nocer su historia a las turistas... ¡y tomar una racioncita de morcilla!
+nocer su historia a las turistas... ¡y tomar una racioncita de morcilla!
+
+# 318
+# No sé que
+No sé que
+
+# 319
+# ven en él
+ven en él
+
+# 320
+# que no tenga yo,
+que no tenga yo,
+
+# 321
+# la verdad...
+la verdad...
+
+# 322
+# Yo me quedo
+Yo me quedo
+
+# 323
+# con las chicas
+con las chicas ...
+
+# 324
+# ... y me pongo
+... y me pongo
+
+# 325
+# las botillas
+las botillas
+
+# 326
+# Jur!!!
+Jur!!!
+
+# 327
+# CAMIONERO
+CAMIONERO
+
+# 328
+# SALVA SEVILLA
+SALVA SEVILLA
+
+# 329
+# El precio de la morcilla por las nubes
+El precio de la morcilla por las nubes

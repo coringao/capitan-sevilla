@@ -1,0 +1,10 @@
+First you need the allegro development package installed
+On Ubuntu type:
+ $> sudo apt-get install make g++ liballegro-dev libpng3-dev
+
+Next you need to compile the dependencies alfont and alogg whose sourcecode is provided in this release
+ $> make depsclean && make deps
+
+Last you can compile and install the game
+ $> make clean && make install
+
