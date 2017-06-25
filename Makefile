@@ -61,7 +61,7 @@ install: all
 	@$(ECHO) " o Creating install directory $(INSTDIR)"
 	@$(MD) "$(INSTDIR)"
 	@$(ECHO) " o Installing game and data to $(INSTDIR)"
-	@$(CP) $(EXE) $(DATADIR) $(EXTRADIR)/instructions.pdf "$(INSTDIR)"
+	@$(CP) $(EXE) $(DATADIR) "$(INSTDIR)"
 	@$(ECHO) " o Creating startup script $(STARTUP)"
 	@$(MD) "$(GAMEDIR)"
 	@$(ECHO) "#!/bin/sh" >"$(STARTUP)"
