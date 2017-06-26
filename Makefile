@@ -58,40 +58,36 @@ clean:
 	$(RM) $(EXE)
 
 install: all
-	@$(ECHO) " o Creating install directory $(INSTDIR)"
 	@$(MD) "$(INSTDIR)"
-	@$(ECHO) " o Installing game and data to $(INSTDIR)"
 	@$(CP) $(EXE) $(DATADIR) "$(INSTDIR)"
-	@$(ECHO) " o Creating startup script $(STARTUP)"
 	@$(MD) "$(GAMEDIR)"
 	@$(ECHO) "#!/bin/sh" >"$(STARTUP)"
 	@$(ECHO) "pulseaudio -k" >>"$(STARTUP)"
 	@$(ECHO) "cd \"$(INSTDIR)\"; ./$(EXE); cd -" >>"$(STARTUP)"
 	@$(ECHO) "pulseaudio -D" >>"$(STARTUP)"
 	@$(CHMOD) 755 "$(STARTUP)"
-	@$(ECHO) " o Creating application menu entry"
 	@$(MD) "$(ICNDIR)"
 	@$(CP) "$(EXTRADIR)/$(ICON)" "$(ICNDIR)"
 	@$(MD) "$(APPDIR)"
 	@$(CP) "$(EXTRADIR)/$(DESKTOP)" "$(APPDIR)"
-	@$(ECHO) ""
+	@$(ECHO) "Installation completed successfully"
 
 uninstall:
-	@$(ECHO) " o Removing game and data from $(INSTDIR)"
-	@$(RM) -r "$(INSTDIR)"
-	@$(ECHO) " o Removing startup script $(STARTUP)"
+	@$(RM) "$(INSTDIR)"
 	@$(RM) "$(STARTUP)"
-	@$(ECHO) " o Removing application menu entry"
 	@$(RM) "$(ICNDIR)/$(ICON)" "$(APPDIR)/$(DESKTOP)"
+	@$(RM) "$(OBJDIR)/*.o"
+	@$(RM) "$(EXE)"
+	@$(ECHO) "Uninstall completed successfully"
 
 deps:
-	mkdir -p dependencies/alfont/obj/linux/static
-	mkdir -p dependencies/alfont/lib/linux
-	mkdir -p dependencies/alogg/obj/linux/static
-	mkdir -p dependencies/alogg/lib/linux
-	mkdir -p src/obj
-	mkdir -p lib/linux
-	mkdir -p include
+	$(MD) dependencies/alfont/obj/linux/static
+	$(MD) dependencies/alfont/lib/linux
+	$(MD) dependencies/alogg/obj/linux/static
+	$(MD) dependencies/alogg/lib/linux
+	$(MD) src/obj
+	$(MD) lib/linux
+	$(MD) include
 	cd dependencies/alfont && make install
 	cd dependencies/alogg && make install
 
