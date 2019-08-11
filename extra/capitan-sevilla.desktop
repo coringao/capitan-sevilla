@@ -1,11 +1,9 @@
 [Desktop Entry]
-Encoding=UTF-8
 Name=Capitan Sevilla
 Comment=Save Seville from the evil Torrebruno
-Exec=capitan
-Icon=capitan.png
+Exec=capitan-sevilla
+Keywords=game;adventure;action;platforms;
 Terminal=false
 Type=Application
-Categories=Application;Game;ArcadeGame;
-StartupNotify=false
-
+Icon=capitan-sevilla
+Categories=Game;AdventureGame;ActionGame;
